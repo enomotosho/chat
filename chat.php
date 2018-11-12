@@ -2,6 +2,13 @@
 <html>
 <head>
 	<title>チャット</title>
+	<style>
+	h1{
+		font-size:12pt;
+		border-bottom: 1px solid gray;
+		color:blue;
+	}
+	</style>
 </head>
 <body>
 
